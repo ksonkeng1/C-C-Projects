@@ -1,0 +1,25 @@
+Oregon Trail Text-Based Game
+The Oregon Trail Text-Based Game is a console-based adventure inspired by the classic game "Oregon Trail." In this game, players embark on a journey through a treacherous landscape, facing various challenges along the way. The goal is to traverse the map from the starting location to the ending location without running out of food.
+
+Features:
+Dynamic Gameplay: Players navigate through a dynamically generated map, encountering different obstacles such as animals, diseases, and rivers.
+Resource Management: Players must manage their food supplies carefully to survive the journey.
+Decision Making: The game presents players with decisions at critical points, allowing them to choose their path and face the consequences.
+How to Play:
+Start Game: Choose the "Start Game" option to begin your adventure.
+Navigate: Use directional commands (up, down, left, right) to navigate through the map.
+Encounter Obstacles: Encounter various obstacles such as animals and diseases along the way.
+Manage Resources: Manage your food supplies and make strategic decisions to survive.
+Reach the End: Successfully navigate to the ending location to win the game.
+Instructions:
+Menu Options: The game offers options to start the game, display instructions, and quit.
+Obstacle Types: Animals and diseases have different effects on food supplies.
+Replay: After completing the journey, players have the option to replay the game.
+Technologies Used:
+C Programming Language: The game is developed using the C programming language.
+File I/O: Map data is read from external files to generate the game environment.
+How to Run:
+To run the game, compile the source files (game.c, game.h, and main.c) using a C compiler and execute the compiled executable. Make sure to provide the necessary map data file as a command-line argument.
+
+Enjoy the Adventure!
+Embark on an exciting journey through the Oregon Trail and test your survival skills. Can you overcome the challenges and reach the end of the trail?
