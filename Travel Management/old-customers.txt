@@ -1,0 +1,21 @@
+
+Customer ID: 4
+Name: Kevon
+Age: 0
+Mobile Number: 1
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Kevon
+Age: 0
+Mobile Number: 1
+Address: 
+Gender: 
+
+Customer ID: 1
+Name: Kevon
+Age: 21
+Mobile Number: 2147483647
+Address: 
+Gender: 
